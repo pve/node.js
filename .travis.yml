@@ -1,4 +1,6 @@
 language: node_js
+dist: trusty
+sudo: false
 
 # test on two node.js versions: 0.6 and 0.8
 node_js:
